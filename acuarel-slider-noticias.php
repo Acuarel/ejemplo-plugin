@@ -639,8 +639,8 @@ class Acuarel_Slider_Noticias{
 		$thumbnail_id = get_post_thumbnail_id( $ID );
 
 		if( "" === $thumbnail_id  || intval( $thumbnail_id ) <=0 ){
-			$id_es	= pll_get_post( $ID ,  'es');
-			$thumbnail_id = get_post_thumbnail_id( $id_es );
+			//$id_es	= pll_get_post( $ID ,  'es');
+			$thumbnail_id = get_post_thumbnail_id( $ID );
 		}
 		if( "" !== $thumbnail_id  && intval( $thumbnail_id ) >0 ){
 
