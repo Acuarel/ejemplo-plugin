@@ -1,0 +1,145 @@
+/* 
+
+	Plugin Name: Acuarel Slider de Noticias
+	Description: CSS FrontEnd
+	Author: Daniel Prol ( aka Cancrexo ) para Acuarel
+	Version: 1.0 
+	Author URI: http://www.acuarel.es
+	
+	
+*/  
+
+
+/*Marquesina de noticias*/
+div.ofertas-top{
+	position:relative;
+	display:block;
+	display: block;
+	width: 563px;
+	height: 86px;
+	left: 0;
+	margin:0 0 20px;
+	top:0;
+	background:transparent url(../images/bg-slider-noticias.png) no-repeat 0 0;
+	
+	/*acuarel-borde*/border:0px solid #f90	
+}
+
+div.ofertas-top div.marquesina{
+	position:absolute;
+	display:block;
+	/*top:16px;*/
+	left:3px;
+	width:555px;
+	max-height:70px;
+	/*height:33px;*/
+	overflow:hidden;
+	/*acuarel-borde*/border-bottom:0px dashed #0c0		
+}
+
+div.ofertas-top div.marquesina div.marquesina-texto{
+	white-space:nowrap;
+	display:inline;
+	width:auto;
+	height:auto;
+	color:#fff;
+	border:0px solid #c00;
+}
+
+
+ul.bloque-noticias-home{
+	position:relative;
+	display:block;
+	width:100%;
+	min-height:400px;
+	margin:0 0 0 0;
+	padding:0;
+	list-style-type:none;
+	border:0px solid #c00;
+}
+
+ul.bloque-noticias-home li{
+	display:block;
+	width:100%;
+	float:left;
+	height:auto;
+	padding-bottom:30px;	
+	margin-bottom: 30px;
+  	border-bottom: 1px dashed #ababac;
+}
+
+ul.bloque-noticias-home li:last-child{
+	border:none;
+	
+}
+
+
+ul.bloque-noticias-home li img.thumb{
+	display:block;
+	float:left;	
+	height:auto;
+	width:25%;
+	margin:0 5px  5px 0;
+	border:1px solid #ccc;
+}
+
+
+ul.bloque-noticias-home li a{
+	display:block;	
+	float:right;
+	width:72%;
+}
+ul.bloque-noticias-home li a h3{
+	display:block;
+	float:left;
+	clear:none;
+	width:100%;
+	text-align:left;
+	font-size:20px;
+	color:#585859;
+	margin:0;
+	padding:0;
+	text-align:left;
+	line-height:1.2em;
+	text-decoration:none;
+}
+ul.bloque-noticias-home li a:hover h3{
+	color:#33BDBB;
+}
+ul.bloque-noticias-home li a p{
+	display:block;
+	float:left;
+	width:100%;
+	text-align:justify;
+	height:auto;
+	font-size:14px;
+	line-height:1.3em;
+	color:#585859;
+	text-decoration:none;	
+}
+ul.bloque-noticias-home li a:hover p{
+	color:#585859;
+}
+ul.bloque-noticias-home li a h4{
+	color:#111;
+	text-align:right;
+	float:left;
+	font-size:13px;
+	font-weight:normal;
+	padding:4px 0 0;
+	margin:0;
+	text-transform:uppercase;
+}
+ul.bloque-noticias-home li a:hover h4{
+	color:#33BDBB;
+}
+
+ul.bloque-noticias-home li a span.read-more{
+	display:inline-block;
+	padding:4px 0 0;
+	margin-left:4px;
+	color:#111;
+}
+ul.bloque-noticias-home li a:hover span.read-more{
+	color:#33BDBB;
+}

@@ -1,0 +1,51 @@
+/* 
+
+	Plugin Name: Acuarel Slider de Noticias
+	Plugin URI: http://www.acuarel.es
+	Description: CSS Back End
+	Author: Daniel Prol ( aka Cancrexo ) para Acuarel
+	Version: 1.0 
+	Author URI: http://www.acuarel.es	
+	
+*/  
+
+.sjb-form fieldset{
+	display:block;
+	margin-top:2em;
+	padding:1em;
+	border:1px solid #ccc;
+}
+
+.sjb-form legend{
+	font-size:18px;	
+	color:#000;
+}
+
+.sjb-form textarea{
+	display:block;
+	width:90%;
+	height:5em;
+	resize:none;	
+}
+.sjb-form h3 {
+	display:inline-block;
+	color: #23282d;
+	font-size: 1.3em;
+	margin: 1em 0;
+	line-height:1.3em;
+	height:1.3em;
+}
+.sjb-form h3 span{
+	display:inline-block;
+	width:4em;
+	height:1.3em;
+	line-height:1.3em;
+	font-size:1.3em;
+	color:#06C;
+	text-align:center;
+	border:0px solid #ccc;
+}
+
+div.slider-acuarel{
+	max-width:480px;	
+}

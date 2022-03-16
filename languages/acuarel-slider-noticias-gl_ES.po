@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Acuarel Slider de Noticias v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-06 08:07:14+0000\n"
+"Last-Translator: acuarel <tecnico@acuarel.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Galego\n"
+"X-Poedit-Country: ESPANA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: acuarel-slider-noticias.php:396
+#@ acuarel-slider-noticias
+msgid "Acuarel Slider Noticias"
+msgstr ""
+
+#: acuarel-slider-noticias.php:469
+#@ acuarel-slider-noticias
+msgid "Configuracion actualizada correctamente."
+msgstr ""
+
+#: acuarel-slider-noticias.php:474
+#@ acuarel-slider-noticias
+msgid "Configuración general"
+msgstr ""
+
+#: acuarel-slider-noticias.php:495
+#@ acuarel-slider-noticias
+msgid "Puedes escoger entre hacer un scroll de texto con el título de ciertas entradas o bien con un texto específico."
+msgstr ""
+
+#: acuarel-slider-noticias.php:506
+#@ acuarel-slider-noticias
+msgid "Categoría"
+msgstr ""
+
+#: acuarel-slider-noticias.php:509
+#@ acuarel-slider-noticias
+msgid "Nº de noticias a mostrar"
+msgstr ""
+
+#: acuarel-slider-noticias.php:517
+#@ acuarel-slider-noticias
+msgid "Texto"
+msgstr ""
+
+#: acuarel-slider-noticias.php:526
+#@ acuarel-slider-noticias
+msgid "Usar Fuente Google"
+msgstr ""
+
+#: acuarel-slider-noticias.php:529
+#@ acuarel-slider-noticias
+msgid "Velocidad scroll"
+msgstr ""
+
+#: acuarel-slider-noticias.php:531
+#@ acuarel-slider-noticias
+msgid "Tamaño de fuente"
+msgstr ""
+
+#: acuarel-slider-noticias.php:533
+#@ acuarel-slider-noticias
+msgid "Offset Y"
+msgstr ""
+
+#: acuarel-slider-noticias.php:540
+#@ acuarel-slider-noticias
+msgid "Actualizar"
+msgstr ""
+
+#: acuarel-slider-noticias.php:541
+#@ acuarel-slider-noticias
+msgid "Cancelar"
+msgstr ""
+
+#: acuarel-slider-noticias.php:570
+#@ acuarel-slider-noticias
+msgid "No se ha definido un texto para el slider."
+msgstr ""
+
+#: acuarel-slider-noticias.php:579
+#@ acuarel-slider-noticias
+msgid "No se han encontrado noticias en la categoría indicada"
+msgstr ""
+
+#: acuarel-slider-noticias.php:586
+#@ acuarel-slider-noticias
+msgid "Ultimas Noticias"
+msgstr "Últimas Novas"
+
+#: acuarel-slider-noticias.php:697
+#@ acuarel-slider-noticias
+msgid "Ver noticia"
+msgstr "Ver nova"
+
+#: acuarel-slider-noticias.php:697
+#@ acuarel-slider-noticias
+msgid "Leer más"
+msgstr "Ler máis"
+
